@@ -1,4 +1,6 @@
 # Pomodoro Timer Application🍅
+![image](https://github.com/chaw-thiri/Pomodoro-timer/assets/113085742/a306ed21-8959-4e6c-b517-6ddbb3e7ea01)
+
 ## Overview
 This is a simple Pomodoro Timer application built using Python and the Tkinter library for the graphical user interface (GUI). The Pomodoro Technique is a time management method that involves breaking work into intervals, typically 25 minutes, separated by short breaks. This application enhances focus and productivity during work sessions.
 
