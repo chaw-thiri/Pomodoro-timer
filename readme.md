@@ -49,7 +49,7 @@ Pygame (install with pip install pygame)
 ## Running the Application
 #### Clone the repository:
 
-`git clone https://github.com/yourusername/PomodoroTimer.git`
+`https://github.com/chaw-thiri/Pomodoro-timer.git`
 #### Change into the project directory:
 `cd PomodoroTimer`
 #### Install dependencies:
